@@ -1,11 +1,11 @@
 # BlackJack Vite
-Jose Eduardo
+Jose Eduardo FES Aragon
 Pasos para ejecutar proyecto:
 
 1. Clonar repositorio
 2. Ejecutar ```npm install``` para reconstruir los módulos de node
 3. Correr el devServer ```npm run dev```
-4. Abril el proyecti eb : http://localhost : 3000
+4. Abril el proyecto en : http://localhost : 3000
 ## Producción
 
 1. Ejecutar ```npm run build```
